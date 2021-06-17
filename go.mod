@@ -1,3 +1,3 @@
-module github.com/pallat/loanrate
+module github.com/pallat/monthlypayment
 
 go 1.16
